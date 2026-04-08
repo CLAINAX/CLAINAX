@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my server's envrioment (thro tailscale)
-- 🌱 I’m currently learning AI optimizing stuff
-- 📫 How to reach me: eric.esquirolj4@gmail.com
+#- 🔭 I’m currently working on my server's envrioment (thro tailscale)
+#- 🌱 I’m currently learning AI optimizing stuff
+#- 📫 How to reach me: eric.esquirolj4@gmail.com
 
 -->
