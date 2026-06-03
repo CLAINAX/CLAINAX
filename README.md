@@ -7,4 +7,12 @@
 
 
 * 🌱 I’m currently learning AI optimizing stuff
+
+* UPDATE 03/06/2026
+  * Implementation of 2 nvidia A4000
+  * Joplin service (to link notes)
+  * Cryptomator's mnemonic password implemented on Nextcloud
+  * Builed in mnemonic password from Nextcloud's enabled
+  * Doom added into Nextcloud's users
+
 * 📫 How to reach me: eric.esquirolj4@gmail.com
