@@ -32,6 +32,6 @@
 <img width="1567" height="916" alt="image" src="https://github.com/user-attachments/assets/ecd65ece-9854-4a01-89d5-f5962dc97d10" />
 <img width="892" height="537" alt="image" src="https://github.com/user-attachments/assets/c846b35c-f550-4863-89b6-1cf662a8c079" />
 <img width="892" height="508" alt="image" src="https://github.com/user-attachments/assets/8a1bd813-e71c-4569-a733-3b91002ab41e" />
-<img width="892" height="508" alt="image" src="https://github.com/user-attachments/assets/2702f9bf-d0cc-4913-8072-6189b2db5005" />## Hi there 👋
+
 
 * 📫 How to reach me: eric.esquirolj4@gmail.com
