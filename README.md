@@ -9,10 +9,24 @@
 * 🌱 I’m currently learning AI optimizing stuff
 
 * UPDATE 03/06/2026
-  * Implementation of 2 nvidia E4000
+  * Implementation of 2 nvidia p4000
   * Joplin service (to link notes)
   * Cryptomator's mnemonic password implemented on Nextcloud
   * Builed in mnemonic password from Nextcloud's enabled
   * Doom added into Nextcloud's users
+
+
+
+* UPDATE 02/07/2026
+  * Implemented 2x NVIDIA RTX 5060 Ti (16 GB each).
+
+  * Set up gaming service room with VPN-connected consoles.
+
+  * AI automation via n8n, integrating Anthropic, Ollama, an SQL database, Gmail, and WhatsApp.
+
+  * Deployed a self-hosted LanguageTool server.
+  
+  * Added level 2 in Python's game.
+
 
 * 📫 How to reach me: eric.esquirolj4@gmail.com
