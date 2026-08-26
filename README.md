@@ -1,7 +1,13 @@
-SCROLL DOWN FOR LATEST UPDATES!!!
-   SCROLL DOWN FOR LATEST UPDATES!!!
-      SCROLL DOWN FOR LATEST UPDATES!!!
-         SCROLL DOWN FOR LATEST UPDATES!!!
++=============================================+
+|  V V V V V V V V V V V V V V V V V V V V V  |
+|                                             |
+|   SCROLL DOWN FOR LATEST UPDATES!!!         |
+|      SCROLL DOWN FOR LATEST UPDATES!!!      |
+|         SCROLL DOWN FOR LATEST UPDATES!!!   |
+|            SCROLL DOWN FOR LATEST UPDATES!!!|
+|                                             |
+|  V V V V V V V V V V V V V V V V V V V V V  |
++=============================================+
 
 * 🔭 I’m currently working on my server's environment (through Tailscale)
 
