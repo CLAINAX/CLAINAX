@@ -68,5 +68,24 @@
      * Added utility services: Bitwarden, Paperless, Stirling PDF, and IT-Tools.
 
      * Deployed and automated media stack: Jellyfin, Radarr, Sonarr, Jellyseerr, Bazarr, qBittorrent, and Prowlarr.
+
+ New and old home screen:
+<img width="1888" height="940" alt="image" src="https://github.com/user-attachments/assets/306363e2-e3c2-405b-92b7-4dd92032c9c4" />
+<img width="1609" height="994" alt="image" src="https://github.com/user-attachments/assets/a6e48cf1-bd60-416a-a887-ef4062c3add6" />
+
+Extras:
+<img width="1874" height="930" alt="image" src="https://github.com/user-attachments/assets/71eeae8a-5fa4-4fb8-a893-1db9d5e7a5df" />
+<img width="1895" height="938" alt="image" src="https://github.com/user-attachments/assets/64bb58dd-c2af-44ff-93d0-8b93b207d976" />
+<img width="1542" height="787" alt="image" src="https://github.com/user-attachments/assets/ec1f8474-8146-4b7d-80f3-5008e6315d1b" />
+<img width="1862" height="922" alt="image" src="https://github.com/user-attachments/assets/1128fcdb-10fa-4f79-a3c8-3a441e43c626" />
+<img width="1806" height="871" alt="image" src="https://github.com/user-attachments/assets/932664e8-3733-4ea1-a3e8-34bd38c4629d" />
+<img width="1758" height="789" alt="image" src="https://github.com/user-attachments/assets/14baba05-0083-4af8-8ca2-d0fb4547096d" />
+<img width="1741" height="704" alt="image" src="https://github.com/user-attachments/assets/16ae579f-f352-4e51-a66a-dcede8b36508" />
+<img width="1741" height="927" alt="image" src="https://github.com/user-attachments/assets/220577b4-bf17-4abf-bd56-08540bb64823" />
+<img width="1608" height="802" alt="image" src="https://github.com/user-attachments/assets/1019f915-6dd3-49b4-ae00-d452a727c79d" />
+
+
+
+ 
   
 * 📫 How to reach me: eric.esquirolj4@gmail.com
