@@ -1,3 +1,4 @@
+```text
 +=============================================+
 |  V V V V V V V V V V V V V V V V V V V V V  |
 |                                             |
@@ -8,6 +9,7 @@
 |                                             |
 |  V V V V V V V V V V V V V V V V V V V V V  |
 +=============================================+
+```
 
 * 🔭 I’m currently working on my server's environment (through Tailscale)
 
