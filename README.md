@@ -76,7 +76,7 @@
      * Configured advanced mnemonic access tokens for all ComfyUI users.
 
  * Self-Hosted Services
-     * Added utility services: Bitwarden, Paperless, Stirling PDF, and IT-Tools.
+     * Added utility services: Bitwarden, Paperless, Stirling PDF, and IT-Tools and Visual Code Studio's AI agent
 
      * Deployed and automated media stack: Jellyfin, Radarr, Sonarr, Jellyseerr, Bazarr, qBittorrent, and Prowlarr.
 
@@ -95,6 +95,7 @@ Extras:
 <img width="1741" height="927" alt="image" src="https://github.com/user-attachments/assets/220577b4-bf17-4abf-bd56-08540bb64823" />
 <img width="1608" height="802" alt="image" src="https://github.com/user-attachments/assets/1019f915-6dd3-49b4-ae00-d452a727c79d" />
 
+<img width="1906" height="966" alt="screenshot_20260827_220716" src="https://github.com/user-attachments/assets/e2477e49-4668-4fb0-a8bc-bc2c75853354" />
 
 
  
