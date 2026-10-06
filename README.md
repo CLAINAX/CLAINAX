@@ -10,6 +10,19 @@
 |  V V V V V V V V V V V V V V V V V V V V V  |
 +=============================================+
 ```
+🖐️ About Me
+
+Hi! My name is Eric. I’m a tech-passionate teenager fascinated by the depths of the wonderful world of computers.
+
+    ⚽ Hobbies: Playing sports, learning new things, and gaming.
+
+    🏠 Current Focus: Since March 2025, I’ve been fully dedicated to building and experimenting with my HomeLab.
+
+    🔐 Interests: Cybersecurity and hands-on platforms like OverTheWire.
+
+    🌐 Languages: English (C1 level, largely thanks to diving into Reddit forums to solve tech questions!), native Spanish and Native Catalan.
+
+    
 
 * 🔭 I’m currently working on my server's environment (through Tailscale)
 
