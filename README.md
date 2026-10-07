@@ -22,7 +22,12 @@ Hi! My name is Eric. I’m a tech-passionate teenager fascinated by the depths o
 
     🌐 Languages: English (C1 level, largely thanks to diving into Reddit forums to solve tech questions!), native Spanish and Native Catalan.
 
-    
+
+
+So far, this is part of my server and laptop infrastructure;
+<img width="839" height="560" alt="image" src="https://github.com/user-attachments/assets/26f5b1d6-fb01-4311-87c6-db7d0948e1fa" />
+<img width="854" height="592" alt="image" src="https://github.com/user-attachments/assets/d82fb9b8-1d28-4957-ac1e-371b7253dc38" />
+
 
 * 🔭 I’m currently working on my server's environment (through Tailscale)
 
